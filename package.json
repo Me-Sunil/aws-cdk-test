@@ -17,6 +17,11 @@
     "watch": "npx projen watch",
     "projen": "npx projen"
   },
+  "author": {
+    "name": "Sunil",
+    "url": "https://me-sunil.github.io/",
+    "organization": false
+  },
   "devDependencies": {
     "@types/jest": "^29.5.6",
     "@types/node": "^16",
